@@ -1,9 +1,0 @@
-mkdir .dotfiles
-ls -a
-cd .dotfiles
-pwd
-touch README.md
-vim README.md
-cat README.md
-cp ~/.vimrc .
-
